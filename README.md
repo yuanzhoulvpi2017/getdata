@@ -15,13 +15,22 @@
 # 转换过程显示
 
 ## step 1
+
+这个是从时间序列书籍上拍下来的照片
 ![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example1.jpeg)
 
 ## step 2
+
+然后通过图像处理，获得所有的内容
 ![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example2.jpeg)
 
 ## step 3
+
+使用matplotlib和jupyter notebook的交互功能 提取出线段
 ![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example3.jpeg)
+
+
 ## step 4
+这个就是最终获得数据然后展示在matplotlib里面
 ![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example4.jpeg)
 
