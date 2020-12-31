@@ -12,3 +12,16 @@
 
 
 
+# 转换过程显示
+
+## step 1
+![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example1.jpeg)
+
+## step 2
+![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example2.jpeg)
+
+## step 3
+![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example3.jpeg)
+## step 4
+![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/example4.jpeg)
+
