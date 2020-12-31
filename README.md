@@ -12,15 +12,3 @@
 
 
 
-更多问题可以加群联系：
-
-qq群：
-
-![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/qqgroup.JPG)
-
-
-
-微信群：
-
-![](https://github.com/yuanzhoulvpi2017/getdata/blob/main/wechatgroup.JPG)
-
